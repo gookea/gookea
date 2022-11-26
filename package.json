@@ -1,0 +1,22 @@
+{
+  "name": "gookea",
+  "version": "1.0.0",
+  "description": "工具箱(toolkit)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gookea/gookea.git"
+  },
+  "author": "zbz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gookea/gookea/issues"
+  },
+  "homepage": "https://github.com/gookea/gookea#readme",
+  "devDependencies": {
+    "electron": "^21.3.1"
+  }
+}
